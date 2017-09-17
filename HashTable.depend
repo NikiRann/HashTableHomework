@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1505674539 source:c:\users\niko\documents\c++ projects\hashtable\hashtable\src\hashtable.cpp
+	"HashTable.h"
+
+1505674529 c:\users\niko\documents\c++ projects\hashtable\hashtable\include\hashtable.h
+	<iostream>
+	<string>
+	<cstdlib>
+

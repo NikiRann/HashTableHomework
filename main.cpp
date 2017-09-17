@@ -11,6 +11,6 @@ int main(int argc,const char ** argv)
     geekycampers.removeGeekyCamper("Puter");
     geekycampers.printGeekyCampersInIndex(geekycampers.hash("Petur"));
     cout << geekycampers.getGeekyPoints("Puret") << endl;
-    ///geekycampers.printTable();
+    //geekycampers.printTable();
     return 0;
 }
