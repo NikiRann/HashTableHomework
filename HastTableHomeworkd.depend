@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505668924 source:c:\users\niko\documents\c++ projects\hasttablehomeworkd\src\hashtable.cpp
+	"HashTable.h"
+
+1505668931 c:\users\niko\documents\c++ projects\hasttablehomeworkd\include\hashtable.h
+	<iostream>
+	<string>
+	<cstdlib>
+
+1505668878 source:c:\users\niko\documents\c++ projects\hasttablehomeworkd\main.cpp
+	<iostream>
+	<HashTable.h>
+
